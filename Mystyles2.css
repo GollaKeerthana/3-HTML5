@@ -1,0 +1,29 @@
+nav{
+    background-color: aquamarine;
+    color: violet;
+    padding: 16px;
+}
+nav ul{
+    list-style-type: circle;
+    margin: 3;
+    padding: 3;
+}
+nav ul li{
+    display: inline;
+    margin-right: 16px;
+}
+nav ul li a{
+    color: red;
+}
+nav ul li a:hover{
+    text-decoration: none;
+}
+footer{
+    background-color: palevioletred;
+    color: blueviolet;
+    text-align: center;
+    padding: 10px ;
+}
+section{
+    background-color: darkgoldenrod;
+}

@@ -1,0 +1,29 @@
+body,h1,h2,p,ul,li{
+    margin: 3;
+    padding: 3;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background-color: pink;
+    color: aqua;
+    padding: 16px;
+}
+header h1{
+    margin: 3;
+}
+nav ul{
+    list-style-type: disc;
+}
+nav ul li{
+    display: inline;
+    margin-right: 16px;
+}
+nav ul li a{
+    color: red;
+}
+section{
+    background-color: aqua;
+    padding: 16px;
+}
